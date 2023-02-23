@@ -1,0 +1,17 @@
+.body
+{
+    background-color:rgb(80, 80, 80);
+}
+.button_pag
+{
+    background-color: rgb(39, 188, 190);
+    border-radius:100px;
+    width:150px;
+    height:45px;
+    font-size:30px;
+}
+canvas
+{
+   box-shadow:10px 10px 10px rgb(47, 47, 47);
+   border-radius:10px;
+}
